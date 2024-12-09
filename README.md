@@ -13,7 +13,7 @@ months Revenue per Order Source.
 
 4. Using the Sales Table in the excel file, write a SQL query to select the unique customers in
 Lagos state, their emails and also creating a username for each, by extracting from each
-email. (i.e removing '@sonianalytics.com')
+email. (i.e - removing '@sonianalytics.com')
 
 5. Using the Sales and Employee Table in the excel file, write a SQL query to show a 3 days
 moving average of the total quantity sold by each Employee Full Name, during April 2021.
